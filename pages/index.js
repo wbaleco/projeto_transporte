@@ -98,7 +98,7 @@ function HomePage() {
                 </Container>
             </Navbar>
 
-            <Jumbotron>
+            <Jumbotron fluid>
                 <Container>
                     <h1 className="display-3">TRUCKS CONTROLL</h1>
                     <p className="lead">Com o<strong>Trucks Controll</strong> sua empresa poderá gerenciar todos os departamentos com maior agilidade e segurança</p>

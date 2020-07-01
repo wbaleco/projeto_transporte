@@ -1,3 +1,7 @@
+
+# Git remote
+### *git remote add origin https://github.com/wbaleco/projeto_transporte.git*
+
 # criar arquivo package.json
 ## *npm init -y*
 
@@ -9,3 +13,4 @@
 
 # instalar react-dom
 ## *npm install react-dom*
+

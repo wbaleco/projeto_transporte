@@ -3,7 +3,7 @@ function HomePage() {
 
     return (
         <div>
-           <h1>Iniciando Tailwind</h1>
+           <h1>Iniciando Tailwind css</h1>
 
         </div>
     )
